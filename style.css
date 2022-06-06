@@ -18,10 +18,10 @@ input[type=reset]{
  
 /*Submit hover*/ 
 input[type=submit]:hover{ 
-    background-color:rgb(6, 244, 6); 
+    background-color:chocolate; 
 } 
  
 /*Reset hover*/ 
 input[type=reset]:hover{ 
-    background-color:rgb(243, 71, 71); 
+    background-color:chocolate; 
 }
